@@ -9,5 +9,5 @@ package poggiani_torneo;
  * @author 1
  */
 public class Squadra {
-    
+    public String nome;
 }
